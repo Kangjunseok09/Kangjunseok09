@@ -1,6 +1,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kangjunseok09&show_icons=true&theme=catppuccin_mocha)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kangjunseok09&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ### Studying
@@ -14,6 +15,17 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+</div>
+
+---
+
+### Tools
+
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white"/>
 </div>
 
 ---
