@@ -31,7 +31,7 @@
 
 ---
 
-### 📈 백준 알고리즘 풀이 현황
+### 백준 알고리즘 풀이 현황
 
 [![solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=henseol)](https://solved.ac/henseol)
 
